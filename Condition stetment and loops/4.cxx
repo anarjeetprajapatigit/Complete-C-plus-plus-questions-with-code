@@ -1,5 +1,5 @@
 /* 
-Greatest of Two Numbers: Take two numbers as input and print the greater number.
+Greatest of Three Numbers: Take three numbers as input and print the greater number.
 */
 
 #include <iostream>
